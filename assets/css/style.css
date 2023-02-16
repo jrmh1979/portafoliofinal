@@ -152,7 +152,7 @@ img {
   top: 0;
   left: 0;
   width: 100%;
-  background-color: #fff;
+  background-color: #FCDA68;
   box-shadow: var(--box-shadow);
   z-index: var(--z-fixed);
 }
